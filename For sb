@@ -1,4 +1,5 @@
 Numpad1::
-{        sendinput, {/}/e laugh{Enter}
+{        
+         Sendinput, {/}/e laugh{Enter}
          return
 }
