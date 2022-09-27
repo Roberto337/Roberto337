@@ -1,5 +1,1 @@
-Numpad1::   ; "Numpad1"
-{        
-         Sendinput, {/}/e laugh{Enter}
-         return
-}
+Numpad1:: Send, {/}/e laugh{Enter}
