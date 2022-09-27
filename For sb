@@ -1,4 +1,4 @@
-Numpad1::
+Numpad1::   ; "Numpad1"
 {        
          Sendinput, {/}/e laugh{Enter}
          return
